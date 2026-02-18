@@ -2,6 +2,8 @@
 #include <math.h>
 
 
+//exercice 2
+
 int main(void) {
     int divisor = 1;
     int nbr = 0;

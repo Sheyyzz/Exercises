@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
+// exercice 1
 double const g = 9.81;
 
 int main(void) {
