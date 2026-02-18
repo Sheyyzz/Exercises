@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-double g = 9.81;
+double const g = 9.81;
 
 int main(void) {
 
@@ -39,6 +39,6 @@ int main(void) {
         h = h1;
     }
     
-    printf("hauteur finale:  %f\n", h1);
+    printf("At the %dth bounce, the height will be %f\n", nbr, h);
     
 }
